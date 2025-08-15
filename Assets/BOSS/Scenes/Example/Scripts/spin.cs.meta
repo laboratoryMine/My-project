@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c8618014384a63649853e58e88a5e552
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157482
+  packageName: Transforming Robot Drone
+  packageVersion: 1.0
+  assetPath: Assets/Transformer_Robot/Scenes/Example/Scripts/spin.cs
+  uploadId: 355531

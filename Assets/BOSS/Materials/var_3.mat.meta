@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1793a67eeb487414690abb3d35bfb38e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157482
+  packageName: Transforming Robot Drone
+  packageVersion: 1.0
+  assetPath: Assets/Transformer_Robot/Materials/var_3.mat
+  uploadId: 355531

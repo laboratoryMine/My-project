@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b25060879c8f06e4c8f9b4a322b8cad4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157482
+  packageName: Transforming Robot Drone
+  packageVersion: 1.0
+  assetPath: Assets/Transformer_Robot/Textures/transforming_robot.json
+  uploadId: 355531

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 303ee8b9ae8381443857e33920487754
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157482
+  packageName: Transforming Robot Drone
+  packageVersion: 1.0
+  assetPath: Assets/Transformer_Robot/Scenes/Example/SampleScene.unity
+  uploadId: 355531
