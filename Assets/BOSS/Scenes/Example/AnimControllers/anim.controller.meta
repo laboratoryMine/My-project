@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e4d06aa25138754f96c86bc4bf86c92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157482
+  packageName: Transforming Robot Drone
+  packageVersion: 1.0
+  assetPath: Assets/Transformer_Robot/Scenes/Example/AnimControllers/anim.controller
+  uploadId: 355531

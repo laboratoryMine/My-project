@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d9286a9ab6023545ab11196317f537d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157482
+  packageName: Transforming Robot Drone
+  packageVersion: 1.0
+  assetPath: Assets/Transformer_Robot/Prefabs/transformer_robot.prefab
+  uploadId: 355531
