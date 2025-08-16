@@ -6,7 +6,7 @@ public class BossFightDirector_Animator : MonoBehaviour
 
     [Header("Refs")]
     public CPUCountdown countdown;
-    public BossAIWithAnimator bossAI;
+    public BossAI_WithSockets bossAI;
     public Health bossHealth;
     public Animator bossAnimator;
     public Transform player;
